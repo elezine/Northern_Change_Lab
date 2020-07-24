@@ -2,7 +2,7 @@
 
 Add whatever code you think is useful for remote sensing data analysis and misc. coding.
 
-## Using git submodeles
+## Using git submodule
 
 We are experimenting with git submodules to link working repos with this one so that changes can be synchronized without having to create copies of working scripts here. A better solution might be github project boards.
 
