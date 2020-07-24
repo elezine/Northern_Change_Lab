@@ -1,0 +1,3 @@
+[submodule "gps_scripts"]
+	path = gps_scripts
+	url = https://github.com/ekcomputer/gps_scripts
