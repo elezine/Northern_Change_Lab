@@ -2,6 +2,13 @@
 
 Add whatever code you think is useful for remote sensing data analysis and misc. coding.
 
+## Description of repositories
+- [Image-Proc](https://github.com/ekcomputer/Image-Proc)  A growing set of image processing functions in matlab
+- [Riv2xls](https://github.com/ekcomputer/AcousticDoppler)  ADCP quality control galore!
+- [geographic-functions](https://github.com/ekcomputer/geographic-functions)    A set of bash shell scripts using gdal for raster manipulation.
+- [gps_scrripts](https://github.com/ekcomputer/gps_scripts) A collection of simple bash shell scripts for manipulating GPS files using teqc/bash.
+- [water-mask](https://github.com/ekcomputer/water-mask)    Ethan's masters thesis paper!
+
 ## Using git submodule
 
 We are experimenting with git submodules to link working repos with this one so that changes can be synchronized without having to create copies of working scripts here. A better solution might be github project boards.
