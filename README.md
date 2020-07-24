@@ -24,4 +24,6 @@ or
 $ git clone --recurse-submodules https://github.com/example/url.git
 ```
 
+If you clone as normally, the subrepos will show up as empty directories, so if you want to actually have the scripts, you will need to follow the commands above.
+
 Minute details on git submodule available [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).

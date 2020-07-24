@@ -1,3 +1,15 @@
 [submodule "gps_scripts"]
 	path = gps_scripts
 	url = https://github.com/ekcomputer/gps_scripts
+[submodule "AcousticDoppler"]
+	path = AcousticDoppler
+	url = https://github.com/ekcomputer/AcousticDoppler
+[submodule "geographic-functions"]
+	path = geographic-functions
+	url = https://github.com/ekcomputer/geographic-functions
+[submodule "Image-Proc"]
+	path = Image-Proc
+	url = https://github.com/ekcomputer/Image-Proc
+[submodule "water-mask"]
+	path = water-mask
+	url = https://github.com/ekcomputer/water-mask
