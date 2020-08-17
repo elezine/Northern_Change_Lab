@@ -8,6 +8,7 @@ Add whatever code you think is useful for remote sensing data analysis and misc.
 - [geographic-functions](https://github.com/ekcomputer/geographic-functions)    A set of bash shell scripts using gdal for raster manipulation.
 - [gps_scrripts](https://github.com/ekcomputer/gps_scripts) A collection of simple bash shell scripts for manipulating GPS files using teqc/bash.
 - [water-mask](https://github.com/ekcomputer/water-mask)    Ethan's masters thesis paper!
+- [funcs](https://github.com/elezine/funcs) Katia's frequently used functions
 
 ## Using git submodule
 

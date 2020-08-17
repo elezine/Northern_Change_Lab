@@ -13,3 +13,6 @@
 [submodule "water-mask"]
 	path = water-mask
 	url = https://github.com/ekcomputer/water-mask
+[submodule "funcs"]
+	path = funcs
+	url = https://github.com/elezine/funcs.git
