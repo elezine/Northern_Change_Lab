@@ -1,7 +1,7 @@
 # Resources and tutorials
 
 ## Learning python
-* A bare-bones [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
+* A bare-bones, interactive [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
@@ -22,9 +22,6 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## Data science/machine learning
 
 1. Artificial Intelligence for Earth System Sciences workshop (https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school): includes archived workshop tutorials and jupyter notebooks, organized by NCAR.
-
-## Python
-...
 
 ## Matlab
 ...
