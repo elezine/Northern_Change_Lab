@@ -1,10 +1,13 @@
 # Resources and tutorials
 
-## Step one: install the windows subsystem for linux
-...or Docker, or Virtual Box. WSL is available from the microsoft [store](https://docs.microsoft.com/en-us/windows/wsl/install-win10) for free.
+## Learning python
+* A bare-bones [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
+
+### Step one: install the windows subsystem for linux
+...or Docker, or Virtual Box. WSL is available from the microsoft [store](https://docs.microsoft.com/en-us/windows/wsl/install-win10) for free.
 
 1. Lynda tutorial on ["Linux: Bash Shell and Scripts"](https://www.linkedin.com/learning/linux-bash-shell-and-scripts/) - requires LinkedIn Learning membership, which Brown subscribes to. Information should be fairly easy to understand, but will take some time to watch the videos.
 
