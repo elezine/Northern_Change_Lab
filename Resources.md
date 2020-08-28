@@ -42,6 +42,15 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 1. Straight from the [source](https://developers.google.com/earth-engine/guides). Also covered in [geohackweek](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/).
 
+## DEM tools
+1. RichDEM
+2. TauDEM
+3. Topotoolbox (Matlab)
+4. [Mod-WET](https://margulis-group.github.io/teaching/): accompanying matlab package for Steven Margulis' online hydrology textbook.
+5. Arcmap standard toolboxes and optimized pit removal tool
+6. Whitebox GAT: geomorphology package
+7. CloudCompare: open-source GIS-like software for all 3D formats, especially point clouds
+
 ## Matlab
 ...
 
