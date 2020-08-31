@@ -53,6 +53,10 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 6. Whitebox GAT: geomorphology package
 7. CloudCompare: open-source GIS-like software for all 3D formats, especially point clouds
 
+## GDAL/OGR command line reference
+* [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
+* Another less-helpful [OGR cheat sheat](https://www.bostongis.com/PrinterFriendly.aspx?content_name=ogr_cheatsheet)
+
 ## Matlab
 ...
 
