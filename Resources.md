@@ -8,7 +8,9 @@
 ## Learning python
 1. A bare-bones, interactive [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
-2. Matplotlibe plotting style [guide](https://matplotlib.org/gallery.html)
+2. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is taught in python 2.xx, while python 3.xx is now current. 
+
+3. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
@@ -22,9 +24,9 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 ## Geocomputation workflows
 
-1. [Geohackweek](https://geohackweek.github.io/): An up-to-date resource for geoprocessing workflows in Python, introduced through a series of Jupiter notebook tutorials. Thanks to The University of Washington organizers for offering these workshops and archiving the tutorials!
+1. [Geohackweek](https://geohackweek.github.io/): An up-to-date resource for geoprocessing workflows in Python, introduced through a series of python Jupiter notebook tutorials. Thanks to The University of Washington organizers for offering these workshops and archiving the tutorials!
 
-2. Spatial-ecology.net workshops and [tutorials](http://spatial-ecology.net/dokuwiki/doku.php): Now preserved on Youtube, this site gives introductions to a variety of geospatial processing, including command line programs like gdal, and GIS software like QGIS and GRASS. Includes some introduction to linux and bash as well. Thank you to Giuseppe Amatulli at Yale for hosting this site.
+2. Spatial-ecology.net workshops and [tutorials](http://spatial-ecology.net/dokuwiki/doku.php): Now preserved on Youtube, this site gives introductions to a variety of geospatial processing, including command line programs like gdal, and GIS software like QGIS and GRASS. Includes some introduction to linux, bash, and python as well. Thank you to Giuseppe Amatulli at Yale for hosting this site.
 
 ## Remote sensing tutorials
 
