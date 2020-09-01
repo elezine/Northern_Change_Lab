@@ -5,6 +5,9 @@
   * [Online "textbook:" Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Workshop: Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib](https://www.earthdatascience.org/workshops/gis-open-source-python/) - Covers similar material to geohackweek, but with more brevity
 
+## Introductions to remote sensing from NASA ARSET
+
+* [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
 ## Learning python
 1. A bare-bones, interactive [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
@@ -43,6 +46,12 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## Google Earth Engine
 
 1. Straight from the [source](https://developers.google.com/earth-engine/guides). Also covered in [geohackweek](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/).
+2. [Examples scripts](https://code.earthengine.google.com/) in the default code editor
+3. Useful python toolboxes: geemap
+
+## Visualization
+1. [Pydeck/Google Earth Engine](https://pypi.org/project/pydeck-earthengine-layers/)
+2. [ColorMoves](https://sciviscolor.org/home/colormoves/): An interactive color map picker tool, downloadable color maps, and a script to import them into python or matlab
 
 ## DEM tools
 1. RichDEM
