@@ -16,3 +16,6 @@
 [submodule "funcs"]
 	path = funcs
 	url = https://github.com/elezine/funcs.git
+[submodule "kats_funcs"]
+	path = kats_funcs
+	url = https://github.com/elezine/kats_funcs.git
