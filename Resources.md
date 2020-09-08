@@ -4,6 +4,9 @@
 * Earth Lab at University of Colorado, Boulder: 
   * [Online "textbook:" Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Workshop: Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib](https://www.earthdatascience.org/workshops/gis-open-source-python/) - Covers similar material to geohackweek, but with more brevity
+  
+* Five spatial python/QGIS [tutorials](https://courses.spatialthoughts.com/index.html), recently made freely available by the author, Ujaval Gandhi. Recommended:
+  * [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html): Lengthy, and more spatially-focused than CU Earth Lab course (above), but less flashy and current than geohack week.
 
 ## Introductions to remote sensing from NASA ARSET
 
@@ -65,6 +68,14 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
 * Another less-helpful [OGR cheat sheat](https://www.bostongis.com/PrinterFriendly.aspx?content_name=ogr_cheatsheet)
+
+## Git
+Git is software for code version control for individuals who want to be able to revert to checkpoints. It also offers ways to seamlessly sync scripts between collaborators using websites like github.
+* LinkedIn Learning [course](https://www.linkedin.com/learning/git-essential-training-2012) on git - how Ethan learned
+* Much shorter all-in-one tutorial through the online school, [W3docs](https://www.w3docs.com/learn-git.html)
+* Git [tutorial](https://www.atlassian.com/git) from the developers of github
+* Learning through a series of turorials on [github](https://try.github.io/)
+
 
 ## Matlab
 ...
