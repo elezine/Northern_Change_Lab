@@ -17,11 +17,13 @@
 ## Learning python
 1. A [tutorial](https://docs.python.org/3/tutorial/) provided by the developers of python- not recommended for beginners because it is quite formal and technical. Good for reference, though.
 
-2. A bare-bones, interactive [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
+2. Basic, interactive [tutorial](https://www.w3schools.com/python/) from W3Schools.com with advertisements.
 
-3. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
+3. A bare-bones, interactive, 10-minute-long [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
-4. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
+4. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
+
+5. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
