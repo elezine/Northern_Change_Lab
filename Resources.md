@@ -15,15 +15,19 @@
 * [Advanced Webinar: Accuracy Assessment of a Land Cover Classification](https://arset.gsfc.nasa.gov/land/webinars/18adv-land-classification) - converting your accuracy matrix into confidence intervals
 
 ## Learning python
+Python and its numerical array programming package, numpy, have become so ubiquitous in the sciences that they were the topic of a 2020 review [article](https://www.nature.com/articles/s41586-020-2649-2) in Nature!
+
 1. A [tutorial](https://docs.python.org/3/tutorial/) provided by the developers of python- not recommended for beginners because it is quite formal and technical. Good for reference, though.
 
-2. Basic, interactive [tutorial](https://www.w3schools.com/python/) from W3Schools.com with advertisements.
+2. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/): this looks good! Written by a former physics grad student who wished something like this had existed when they started. Described as "a free resource for learning the basics of Python & NumPy, and moreover, becoming a competent Python user," and "a lean, one-stop resource for learning the essentials of Python from scratch."
 
-3. A bare-bones, interactive, 10-minute-long [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
+3. Basic, interactive [tutorial](https://www.w3schools.com/python/) from W3Schools.com with advertisements.
 
-4. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
+4. A bare-bones, interactive, 10-minute-long [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
-5. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
+5. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
+
+6. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
@@ -82,6 +86,7 @@ Git is software for code version control for individuals who want to be able to 
 * Much shorter all-in-one tutorial through the online school, [W3docs](https://www.w3docs.com/learn-git.html)
 * Git [tutorial](https://www.atlassian.com/git) from the developers of github
 * Learning through a series of turorials on [github](https://try.github.io/)
+* Another jupyter notebook-based [tutorial](https://github.com/patrickcgray/deep_learning_ecology/blob/master/Git_Basics.ipynb) for learning git, from Patrick Gray.
 
 
 ## Matlab
