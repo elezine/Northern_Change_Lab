@@ -8,6 +8,11 @@
 * Five spatial python/QGIS [tutorials](https://courses.spatialthoughts.com/index.html), recently made freely available by the author, Ujaval Gandhi. Recommended:
   * [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html): Lengthy, and more spatially-focused than CU Earth Lab course (above), but less flashy and current than geohack week.
 
+## Other data science:
+1. [Introduction to Data Science A Python Approach to Concepts, Techniques and Applications](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-50017-1) (Laura Igual and Santi Seguí, Springer 2017)
+
+2.) ...Many others!
+
 ## Introductions to remote sensing from NASA ARSET
 
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
@@ -29,11 +34,14 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 
 6. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
-## Python for tabular data analysis: pandas package
+7. Old school? Here are some textbooks:
+* [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) (Hans Petter Langtangen, Springer, 2012)
+* [Python Data Science Handbook](https://learning.oreilly.com/library/view/python-data-science/9781491912126/#toc) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application
 
+## Python for tabular data analysis: pandas package
 1. A list of [tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) from pydata.org.
 
-2. Geohackweek chapter
+2. Geohackweek and Intro to Earth Data Science online textbook chapters
 
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
@@ -62,6 +70,15 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 2. [ORNL DAAC learning resources](https://daac.ornl.gov/resources/learning/): Dozens of quick tutorials on specific topcs such as downloading and analyzing multi-spectral AVIRIS data to using their WMS web maps in GIS tools.
 
 3. [Pangeo gallery](http://gallery.pangeo.io/), a set of example scripts and workflows for various earth science topics, using the open – source [pangeo](https://pangeo.io/) Python environment
+
+## Statistics
+1. [An Introduction to Statistics with Python](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-28316-6#about) (Thomas Haslwanter, Springer, 2016)
+
+2. [An Introduction to Statistical Learning with Applications in R](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-1-4614-7138-7) (James, G., Witten, D., Hastie, T., Tibshirani, R., Springer, 2013) - recommended by Ethan, 2017 edition available in print
+
+3. [Earth Data Science online textbook linear regression overview](https://www.earthdatascience.org/courses/use-data-open-source-python/spatial-data-applications/lidar-remote-sensing-uncertainty/compare-lidar-and-measured-tree-height-regression/) - basic intro, using the latest plotting/data packages
+
+4. [Which Statistical Test?](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) from UCLA Statistical Consulting Group
 
 ## Google Earth Engine
 
