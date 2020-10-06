@@ -29,6 +29,12 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 
 6. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
+## Python for tabular data analysis: pandas package
+
+1. A list of [tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) from pydata.org.
+
+2. Geohackweek chapter
+
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
 
