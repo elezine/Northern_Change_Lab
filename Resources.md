@@ -35,6 +35,7 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 7. Old school? Here are some textbooks:
 * [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) (Hans Petter Langtangen, Springer, 2012)
 * [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application
+* [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools,and Techniques to Build Intelligent Systems](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781838826048/) by Aurélien Géron (available online through Brown Library)
 
 ## Python for tabular data analysis: pandas package
 1. A list of [tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) from pydata.org.
