@@ -32,7 +32,11 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 
 6. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
 
-7. Old school? Here are some textbooks:
+7. One-page "cheat sheets" for common python data science packages:
+ * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+ * Many others...just google cheat sheets for numpy, pandas, matplotlib, jupyter, xarray
+
+8. Old school? Here are some textbooks:
 * [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) (Hans Petter Langtangen, Springer, 2012)
 * [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application
 * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools,and Techniques to Build Intelligent Systems](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781838826048/) by Aurélien Géron (available online through Brown Library)
@@ -93,6 +97,17 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## Visualization
 1. [Pydeck/Google Earth Engine](https://pypi.org/project/pydeck-earthengine-layers/)
 2. [ColorMoves](https://sciviscolor.org/home/colormoves/): An interactive color map picker tool, downloadable color maps, and a script to import them into python or matlab
+3. Additional tools listed on [sciviscolor](https://sciviscolor.org/tools/):
+ * [CCCTool intro video](http://www.ccctool.com/html_v_0_9_0_3/CCC_Tool/VIS20_Tutorial/vis_tutorial.html)
+ * [CCCTool](http://www.ccctool.com/html_v_0_9_0_3/CCC_Tool/cccTool.html)
+ * [Colorgorical - discrete color](http://vrl.cs.brown.edu/color)
+ * [David Johnstone Discrete Color](https://davidjohnstone.net/pages/lch-lab-colour-gradient-picker)
+ * [ColorMoves](https://sciviscolor.org/colormovesapp/)
+ * [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+ * [Adobe Kuler](https://color.adobe.com/create/color-wheel)
+ * [Danielle’s Notebook](https://observablehq.com/@dalbersszafir/vis_2020_color_tools)
+ * [Color Crafter](http://cu-visualab.org/ColorCrafter/)
+
 
 ## DEM tools
 1. RichDEM
