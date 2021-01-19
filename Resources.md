@@ -4,7 +4,9 @@
 * Earth Lab at University of Colorado, Boulder: 
   * [Online "textbook:" Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Workshop: Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib](https://www.earthdatascience.org/workshops/gis-open-source-python/) - Covers similar material to geohackweek, but with more brevity
-  
+
+* [Geo-Python Course](https://geo-python.github.io/site/index.html)  (Department of Geosciences and Geography,  University of Helsinki)
+
 * Five spatial python/QGIS [tutorials](https://courses.spatialthoughts.com/index.html), recently made freely available by the author, Ujaval Gandhi. Recommended:
   * [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html): Lengthy, and more spatially-focused than CU Earth Lab course (above), but less flashy and current than geohack week.
 
@@ -22,21 +24,25 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 
 1. A [tutorial](https://docs.python.org/3/tutorial/) provided by the developers of python- not recommended for beginners because it is quite formal and technical. Good for reference, though.
 
-2. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/): this looks good! Written by a former physics grad student who wished something like this had existed when they started. Described as "a free resource for learning the basics of Python & NumPy, and moreover, becoming a competent Python user," and "a lean, one-stop resource for learning the essentials of Python from scratch."
+2. [An introduction to Python for scientific computing](https://sites.engineering.ucsb.edu/~shell/che210d/python.pdf) (M. Scott Shell / UCSB) - To the point and written by a biochemical modeling professor
 
-3. Basic, interactive [tutorial](https://www.w3schools.com/python/) from W3Schools.com with advertisements.
+3. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/): this looks good! Written by a former physics grad student who wished something like this had existed when they started. Described as "a free resource for learning the basics of Python & NumPy, and moreover, becoming a competent Python user," and "a lean, one-stop resource for learning the essentials of Python from scratch."
 
-4. A bare-bones, interactive, 10-minute-long [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
+4. Basic, interactive [tutorial](https://www.w3schools.com/python/) from W3Schools.com with advertisements.
 
-5. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
+5. A bare-bones, interactive, 10-minute-long [tutorial](https://www.learnpython.org/) in python basics, with a more detailed version available for purchase at DataCamp.
 
-6. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
+6. MIT 6.00: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/): How Ethan learned programming and python. Not recommended because it is quite verbose! It is also taught in python 2.xx, while python 3.xx is now current. 
 
-7. One-page "cheat sheets" for common python data science packages:
+7. [An Introduction to Numpy and Scipy](https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf)  (M. Scott Shell / UCSB) - A great introduction to the basic functions available in numpy. Can also be used as a reference guide.
+
+8. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
+
+9. One-page "cheat sheets" for common python data science packages:
  * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
  * Many others...just google cheat sheets for numpy, pandas, matplotlib, jupyter, xarray
 
-8. Old school? Here are some textbooks:
+10. Old school? Here are some textbooks:
 * [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) (Hans Petter Langtangen, Springer, 2012)
 * [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application
 * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools,and Techniques to Build Intelligent Systems](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781838826048/) by Aurélien Géron (available online through Brown Library)
