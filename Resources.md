@@ -1,7 +1,7 @@
 # Resources and tutorials
 
 ## All-in-one tutorials for earth data science
-* Earth Lab at University of Colorado, Boulder: 
+* Earth Lab at University of Colorado, Boulder (Earth Data Analytics Online Certificate): 
   * [Online "textbook:" Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Workshop: Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib](https://www.earthdatascience.org/workshops/gis-open-source-python/) - Covers similar material to geohackweek, but with more brevity
 
@@ -16,6 +16,8 @@
 * [Advanced Webinar: Land Cover Classification with Satellite Imagery](https://arset.gsfc.nasa.gov/land/webinars/advanced-land-classification) and [Advanced Webinar: Change Detection for Land Cover Mapping](https://arset.gsfc.nasa.gov/land/webinars/adv-change18) - overview of fundamentals of landcover classification mapping- supervised, unsupervised
 * [Advanced Webinar: Accuracy Assessment of a Land Cover Classification](https://arset.gsfc.nasa.gov/land/webinars/18adv-land-classification) - converting your accuracy matrix into confidence intervals
 
+## GIS and geospatial concepts
+* Earth Data Analytics Online Certificate: [Intro to coordinate reference systems](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/)
 ## Learning programming
 1. [How to Think Like a Computer Scientist: Learning with Python 3](https://howtothink.readthedocs.io/en/latest/index.html): An online, html textbook for an introduction to programming (in Python 3). Referenced in MIT 6.00.
 
