@@ -18,6 +18,8 @@
 
 ## GIS and geospatial concepts
 * Earth Data Analytics Online Certificate: [Intro to coordinate reference systems](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/)
+* [Understanding Spatial Data](https://courses.spatialthoughts.com/spatial-data-viz.html#understanding-spatial-data) - from Ujaval Gandhi course
+
 ## Learning programming
 1. [How to Think Like a Computer Scientist: Learning with Python 3](https://howtothink.readthedocs.io/en/latest/index.html): An online, html textbook for an introduction to programming (in Python 3). Referenced in MIT 6.00.
 
