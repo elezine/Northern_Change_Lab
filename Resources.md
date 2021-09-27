@@ -10,6 +10,8 @@
 * Five spatial python/QGIS [tutorials](https://courses.spatialthoughts.com/index.html), recently made freely available by the author, Ujaval Gandhi. Recommended:
   * [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html): Lengthy, and more spatially-focused than CU Earth Lab course (above), but less flashy and current than geohack week.
 
+* [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) - "This book grew out of a course developed at Columbia University called Research Computing in Earth Science. It was written mostly by Ryan Abernathey, with significant contributions from Kerry Key and Tim Crone. By separating the book from the class, we hope to create an open-source community resource for Python education in the Earth and Environmental Sciences."
+ 
 ## Introductions to remote sensing from NASA ARSET
 
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
