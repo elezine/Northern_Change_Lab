@@ -122,15 +122,20 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
  * [Danielle’s Notebook](https://observablehq.com/@dalbersszafir/vis_2020_color_tools)
  * [Color Crafter](http://cu-visualab.org/ColorCrafter/)
 
+## GIS software
+1. QGIS
+2. ArcGIS Desktop
+3. CloudCompare: open-source GIS-like software for all 3D formats, especially point clouds. Can build surfaces, subsample points, make videos and has some rendering features such as illumination angle.
 
 ## DEM tools
 1. RichDEM
 2. TauDEM
-3. Topotoolbox (Matlab)
+3. [Topotoolbox](https://ch.mathworks.com/matlabcentral/fileexchange/50124-topotoolbox) (Matlab): super popular File Exchange package that runs smoothly and has great tutorials.
 4. [Mod-WET](https://margulis-group.github.io/teaching/): accompanying matlab package for Steven Margulis' online hydrology textbook.
-5. Arcmap standard toolboxes and optimized pit removal tool
-6. Whitebox GAT: geomorphology package
-7. CloudCompare: open-source GIS-like software for all 3D formats, especially point clouds
+5. Arcmap standard hydrology toolbox and optimized pit removal tool
+6. QGIS hydrology toolboxes (includes GDAL, GRASS and SAGA algorithms)
+7. [Whitebox GAT](https://www.whiteboxgeo.com/geospatial-software/): geomorphology package Jessica likes: GUI and CLI. Includes citations for the algorithms.
+8. [STARS](https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml) stream modeling software. Designed to interface with an R toolbox called SSN that computes spatial stats, such as semivariogram, but calculated along stream distance. Includes hydrology tools such as reach-contributing area and others. Popular with aquatic biologists studying things like salmon density vs temperature along streams. Annual tutorial workshops. Ethan attended one in 2019.
 
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
