@@ -90,7 +90,9 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 4. [Pangeo gallery](http://gallery.pangeo.io/), a set of example scripts and workflows for various earth science topics, using the open – source [pangeo](https://pangeo.io/) Python environment
 
-5.) ... Many others!
+5. [Resources](https://sites.google.com/view/eeps1960d-spring2021/resources?authuser=0) from Karianne Bergen's Machine Learning for Earth & Environment class at Brown (EEPS1960d)
+
+6. ... Many others!
 
 ## Statistics
 1. [An Introduction to Statistics with Python](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-28316-6#about) (Thomas Haslwanter, Springer, 2016)
