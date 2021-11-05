@@ -157,3 +157,6 @@ Git is software for code version control for individuals who want to be able to 
 
 ## R
 ...
+
+## Career development
+* [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), by Sundar A. Christopher, 2011
