@@ -12,9 +12,10 @@
 
 * [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) - "This book grew out of a course developed at Columbia University called Research Computing in Earth Science. It was written mostly by Ryan Abernathey, with significant contributions from Kerry Key and Tim Crone. By separating the book from the class, we hope to create an open-source community resource for Python education in the Earth and Environmental Sciences."
 
-* [Automating GIS-processes 2021](https://autogis-site.readthedocs.io/en/latest/index.html) - University of Helsinki, python
-
-* [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC/index.html) -  CSC Finland – IT Center for Science 3-day course
+*University of Helsinki courses
+ * [Automating GIS-processes 2021](https://autogis-site.readthedocs.io/en/latest/index.html) - University of Helsinki, python
+ * [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC/index.html) -  CSC Finland – IT Center for Science 3-day course
+ * [Welcome to Geo-Python 2021!](https://geo-python-site.readthedocs.io/en/latest/index.html)
 
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
