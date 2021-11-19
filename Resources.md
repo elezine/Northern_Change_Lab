@@ -13,8 +13,10 @@
 * [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) - "This book grew out of a course developed at Columbia University called Research Computing in Earth Science. It was written mostly by Ryan Abernathey, with significant contributions from Kerry Key and Tim Crone. By separating the book from the class, we hope to create an open-source community resource for Python education in the Earth and Environmental Sciences."
 
 * [Automating GIS-processes 2021](https://autogis-site.readthedocs.io/en/latest/index.html) - University of Helsinki, python
-## Introductions to remote sensing from NASA ARSET
 
+* [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC/index.html) -  CSC Finland – IT Center for Science 3-day course
+
+## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
 * [Advanced Webinar: Land Cover Classification with Satellite Imagery](https://arset.gsfc.nasa.gov/land/webinars/advanced-land-classification) and [Advanced Webinar: Change Detection for Land Cover Mapping](https://arset.gsfc.nasa.gov/land/webinars/adv-change18) - overview of fundamentals of landcover classification mapping- supervised, unsupervised
 * [Advanced Webinar: Accuracy Assessment of a Land Cover Classification](https://arset.gsfc.nasa.gov/land/webinars/18adv-land-classification) - converting your accuracy matrix into confidence intervals
