@@ -1,5 +1,9 @@
 # Northern Change Lab Repo
 
+---------------------
+Note: this repo is no longer maintained. Please see forked version [here](https://github.com/ekcomputer/Northern_Change_Lab/) for latest changes.
+---------------------
+
 Add whatever code you think is useful for remote sensing data analysis and misc. coding.
 
 ## Description of repositories
