@@ -1,3 +1,7 @@
+---------------------
+Note: this list is no longer maintained. Please see forked version [here](https://github.com/ekcomputer/Northern_Change_Lab/blob/master/Resources.md) for latest changes.
+---------------------
+
 # Resources and tutorials
 
 ## All-in-one tutorials for earth data science
